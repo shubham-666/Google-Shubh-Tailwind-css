@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-LIVE[demo] -->(https://google-taiwind-css-shubham.netlify.app/)
+LIVE[demo]][--->](https://google-taiwind-css-shubham.netlify.app/)
 
 
 
