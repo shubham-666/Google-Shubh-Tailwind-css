@@ -1,12 +1,8 @@
 import { TbGridDots } from "react-icons/tb";
 
-import Profile from "../assets/profile-200x200.jpg";
 import ProfileRing from "../assets/profile-ring.svg";
 
 
-// const [image, setImage] = useState(“”);
-// const clientId = “t_YxM0Taxyt2MhS4ve9lviN-EApwUOrVRjNIbJYD10w”;
-// const [result, setResult] = useState([]);
 
 const ProfileIcon = () => {
     return (
